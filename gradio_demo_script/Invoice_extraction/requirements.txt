@@ -1,0 +1,5 @@
+git+https://github.com/huggingface/transformers.git
+PyYAML==6.0
+pytesseract==0.3.9
+datasets==2.2.2
+seqeval==1.2.2

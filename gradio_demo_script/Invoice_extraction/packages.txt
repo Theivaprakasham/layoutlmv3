@@ -1,0 +1,6 @@
+ffmpeg
+libsm6
+libxext6 -y
+libgl1
+-y libgl1-mesa-glx
+tesseract-ocr
